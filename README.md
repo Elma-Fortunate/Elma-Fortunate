@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elma-Fortunate
+- 👋 Hi, I’m @Elma-Fortunate-codecrystals
 - 👀 I’m interested in python, R programming and data science related programming activites 
 - 🌱 I’m currently learning python, tableau and powerbi
 - 💞️ I’m looking to collaborate on ...
